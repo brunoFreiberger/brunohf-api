@@ -1,0 +1,104 @@
+{
+  "photo": "https://media.licdn.com/dms/image/v2/C4E03AQExPzYWSLEC2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1549672747307?e=1743033600&v=beta&t=sVAloZITIojmDffsC8AD-JOzwN2gLMDiBW8uNF37LoY",
+  "fullName": "Bruno Henrique Freiberger",
+  "currentPosition": "Software Developer | Java | JavaScript",
+  "contact": {
+    "phone": "47 996741623",
+    "email": "brunohfreiberger@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/bruno-henrique-freiberger-777090109",
+    "github": "https://github.com/brunoFreiberger"
+  },
+  "aboutMe": "With over nine years of experience in software development, I specialize in full-stack development, leveraging Java (Spring) and JavaScript (Angular) as my core technologies. In addition to these, I have worked with a diverse range of technologies and languages, and possess substantial knowledge in DevOps practices.",
+  "technologies": [
+    "Java",
+    "Spring",
+    "Angular",
+    "JavaScript",
+    "SQL"
+  ],
+  "hobbies": null,
+  "softSkills": [
+    "Teamwork",
+    "Communication",
+    "Problem Solving",
+    "Adaptability"
+  ],
+  "plans": "Enhance DevOps knowledge and write a technical blog.",
+  "professionalExperience": [
+    {
+      "company": "Meta",
+      "role": "Software Engineer",
+      "duration": "May 2023 - Present (1 year 9 months)",
+      "description": null
+    },
+    {
+      "company": "Qualirede",
+      "role": "Software Engineer",
+      "duration": "January 2023 - May 2023 (5 months)",
+      "description": null
+    },
+    {
+      "company": "Pulsati",
+      "role": "Senior Software Engineer",
+      "duration": "May 2021 - December 2022 (1 year 8 months)",
+      "description": "Health plan software development."
+    },
+    {
+      "company": "Supero Tecnologia com Inteligência",
+      "role": "Senior Software Developer",
+      "duration": "April 2020 - May 2021 (1 year 2 months)",
+      "description": "Developed features like a Query Builder using Java and Oracle, enabling nurses to create visual queries without SQL knowledge."
+    },
+    {
+      "company": "Senior Sistemas",
+      "role": "Senior Full Stack Developer",
+      "duration": "September 2019 - March 2020 (7 months)",
+      "description": "Created new features and fixed bugs in an agribusiness software."
+    },
+    {
+      "company": "AMcom Sistemas de Informação",
+      "role": "Senior Full Stack Developer",
+      "duration": "July 2017 - September 2019 (2 years 3 months)",
+      "description": "Worked in a software factory and on outsourcing projects for clients like Philips, Senior Sistemas, FIESC, and Lincros."
+    },
+    {
+      "company": "Windi Soluções em Sistemas",
+      "role": "Full Stack Developer",
+      "duration": "March 2017 - July 2017 (5 months)",
+      "description": "Implemented new features and fixed bugs in a vehicle store management software named Altimus."
+    },
+    {
+      "company": "Teclógica",
+      "role": "Full Stack Developer",
+      "duration": "March 2014 - December 2016 (2 years 10 months)",
+      "description": "Created and maintained a civil construction software named MOBUSS Construção."
+    }
+  ],
+  "academic": [
+    {
+      "institution": "Universidade Regional de Blumenau",
+      "degree": "Bachelor's degree in Computer Science",
+      "years": "2014 - 2019"
+    },
+    {
+      "institution": "Entra21 Blusoft",
+      "degree": "Web Development, IT",
+      "years": "2012 - 2013"
+    },
+    {
+      "institution": "Cedup Hermann Hering",
+      "degree": "High School Diploma with Integrated Software Development Course",
+      "years": "2009 - 2013"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    }
+  ]
+}
